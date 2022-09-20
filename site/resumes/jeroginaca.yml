@@ -20,7 +20,7 @@ basic_info:
           I am an ambitious self-taught developer and always try to improve my results by learning what is needed.
           My goal as a Full-Stack Developer is to work remotely and manage my own pace and workspace.
     
-    # Your profile picture URL
+    # Your  picture URL
     # If you don't have it as a URL you can place the picture inside /static/profile-images/ and the generated link will be http://sep.breatheco.de/static/profile-images/<your file name>
     avatar: https://scontent.fqsa1-1.fna.fbcdn.net/v/t39.30808-6/292729411_174632648366691_6438973640526619647_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=HJsUPAA5CCwAX8FtI87&_nc_ht=scontent.fqsa1-1.fna&oh=00_AT8iCNpCI242RjREQqj0VZMBYXuyvK2lRTdWDvGZ-GPw9A&oe=632D97DA
 
